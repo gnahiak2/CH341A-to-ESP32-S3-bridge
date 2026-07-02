@@ -1,0 +1,2 @@
+source /Users/kaihang/hackclub/Horizons/CH341A-to-ESP32-S3-bridge/firmware/build/gdbinit/symbols
+source /Users/kaihang/hackclub/Horizons/CH341A-to-ESP32-S3-bridge/firmware/build/gdbinit/connect

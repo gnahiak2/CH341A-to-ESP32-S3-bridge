@@ -1,0 +1,5 @@
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+"-specs=/Users/kaihang/hackclub/Horizons/CH341A-to-ESP32-S3-bridge/firmware/build/specs/picolibc.specs"
