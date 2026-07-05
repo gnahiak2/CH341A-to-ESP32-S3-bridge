@@ -1,7 +1,7 @@
 {
     "version":            "1.3",
     "project_name":       "firmware",
-    "project_version":    "2d8c482",
+    "project_version":    "418dcab-dirty",
     "project_path":       "/Users/kaihang/hackclub/Horizons/CH341A-to-ESP32-S3-bridge/firmware",
     "idf_path":           "/Users/kaihang/.espressif/v6.0.1/esp-idf",
     "build_dir":          "/Users/kaihang/hackclub/Horizons/CH341A-to-ESP32-S3-bridge/firmware/build",
